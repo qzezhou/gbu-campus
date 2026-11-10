@@ -7,6 +7,24 @@
 
 Try **Take the guided visit** and **Explore on foot** by day; switch to **Haunted night** for **Begin the night** and **Watch demo**.
 
+## Haunted night: quick controls / 夜间操作速查
+
+These keyboard controls are for manual play. The in-game HUD also shows the main controls. / 以下是手动游玩的键盘操作，游戏内界面也会显示主要按键。
+
+| Control / 按键 | Action / 操作 |
+| --- | --- |
+| W, A, S, D or arrow keys / 方向键 | Move / 移动 |
+| Drag with the mouse / 鼠标拖动 | Look around / 调整视角 |
+| Hold E / 按住 E | Interact with a nearby objective / 与附近目标互动 |
+| F | Toggle torch / 开关手电筒 |
+| Q | Ring the decoy bell / 使用诱饵铃 |
+| Shift | Sprint while moving / 移动时奔跑 |
+| Space / 空格 | Kick / 踢击 |
+| M | Open or close the map / 打开或关闭地图 |
+| Esc | Pause or resume; close the map if it is open / 暂停或继续；地图打开时先关闭地图 |
+
+On touch devices, use the on-screen controls instead. / 触屏设备请使用屏幕上的操作按钮。
+
 The 2026-10-05 crawling-limb revision added: articulated finger grips, uneven limb pulls, grounded contact, wet tissue, drag marks and staggered reattachment. [Play Haunted night](https://greenquark.github.io/world/night/) or [open the Day tour](https://greenquark.github.io/world/). Refresh an existing tab once. References, motion review and deployment checks: [crawling-limbs-evidence.md](artifacts/crawling-limbs-evidence.md). Earlier character provenance remains in [realistic-students-evidence.md](artifacts/realistic-students-evidence.md), and historical Railway publication evidence in [railway-model-evidence.md](artifacts/railway-model-evidence.md). These are historical QA records, not verification of the current Pages deployment.
 
 One campus website with two modes: on GitHub Pages, **Day tour** opens at `/world/` and **Haunted night** at `/world/night/`. Local development uses `/` and `/night/` respectively. Use the shared header to switch in the same tab. Night pause and ending screens also offer **Return to day tour**. Switching modes ends the current visit or run and stops its audio.
